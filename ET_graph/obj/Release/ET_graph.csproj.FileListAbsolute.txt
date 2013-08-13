@@ -1,0 +1,10 @@
+C:\Users\taku\Documents\Visual Studio 2012\Projects\ET_graph\ET_graph\bin\Release\ET_graph.exe.config
+C:\Users\taku\Documents\Visual Studio 2012\Projects\ET_graph\ET_graph\bin\Release\ET_graph.exe
+C:\Users\taku\Documents\Visual Studio 2012\Projects\ET_graph\ET_graph\bin\Release\ET_graph.pdb
+C:\Users\taku\Documents\Visual Studio 2012\Projects\ET_graph\ET_graph\obj\Release\ET_graph.Form1.resources
+C:\Users\taku\Documents\Visual Studio 2012\Projects\ET_graph\ET_graph\obj\Release\ET_graph.Form2.resources
+C:\Users\taku\Documents\Visual Studio 2012\Projects\ET_graph\ET_graph\obj\Release\ET_graph.Properties.Resources.resources
+C:\Users\taku\Documents\Visual Studio 2012\Projects\ET_graph\ET_graph\obj\Release\ET_graph.csproj.GenerateResource.Cache
+C:\Users\taku\Documents\Visual Studio 2012\Projects\ET_graph\ET_graph\obj\Release\ET_graph.exe
+C:\Users\taku\Documents\Visual Studio 2012\Projects\ET_graph\ET_graph\obj\Release\ET_graph.pdb
+C:\Users\taku\Documents\Visual Studio 2012\Projects\ET_graph\ET_graph\obj\Release\ET_graph.csprojResolveAssemblyReference.cache
